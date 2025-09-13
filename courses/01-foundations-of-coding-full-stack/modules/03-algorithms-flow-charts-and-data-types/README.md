@@ -19,4 +19,6 @@ basic problems.
 
 - [Basic Algorithm Structures](/courses/01-foundations-of-coding-full-stack/modules/03-algorithms-flow-charts-and-data-types/basic-algorithms-structures.md)
 - [Practical Applications of Algorithm Structures](/courses/01-foundations-of-coding-full-stack/modules/03-algorithms-flow-charts-and-data-types/practical-applications-of-algorithm-structures.md)
+- [Activity: Algorithm Structures](/courses/01-foundations-of-coding-full-stack/modules/02-intro-to-logical-thinking-and-problem-solving/activities/practice-deductive-reasoning-with-pseudocode.md)
+- [Practice Quiz: Algorithm Structures](/courses/01-foundations-of-coding-full-stack/modules/03-algorithms-flow-charts-and-data-types/quizzes/algorithm-structures.md)
 

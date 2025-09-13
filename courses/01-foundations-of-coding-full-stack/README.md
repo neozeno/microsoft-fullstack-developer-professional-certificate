@@ -77,7 +77,7 @@ of logical processes in programming, including applying deductive reasoning,
 breaking down complex problems,
 and writing pseudocode for problem-solving scenarios.
 
-### Module 3: Algorithms, Flowcharts, and Data Types
+### [Module 3: Algorithms, Flowcharts, and Data Types](/courses/01-foundations-of-coding-full-stack/modules/03-algorithms-flow-charts-and-data-types/README.md)
 
 By the end of this module, I was able to:
 
